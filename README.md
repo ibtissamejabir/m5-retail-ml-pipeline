@@ -196,4 +196,4 @@ Possible future improvements include:
 
 ## Author
 
-This project was built to practice building structured machine learning pipelines and deploying ML systems beyond notebook experimentation.
+IBTISSAME JABIR
