@@ -1,5 +1,15 @@
 # M5 Retail Forecasting: End-to-End ML Pipeline
 
+## Dashboard Preview
+
+### Prediction Results Table
+
+![Prediction Table](images/dashboard_table.png)
+
+### Actual vs Predicted Sales
+
+![Sales Prediction Chart](images/dashboard_chart.png)
+
 This project implements an end-to-end machine learning pipeline for retail demand forecasting using the **M5 Forecasting dataset**. The system demonstrates the full lifecycle of an ML workflow: data ingestion, preprocessing, feature engineering, model training, prediction generation, visualization, and containerized deployment.
 
 
